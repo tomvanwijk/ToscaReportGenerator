@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BKR.Test.ToscaReportGenerator" GeneratedClassName="ToscaReportGenerator">
+  <Profiles />
+  <Settings>
+    <Setting Name="workspacePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\TOSCA_PROJECTS\TOSCA_Workspaces\BKR Tom\BKR Tom.tws</Value>
+    </Setting>
+    <Setting Name="loginName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tomw</Value>
+    </Setting>
+    <Setting Name="loginPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">welkom!01</Value>
+    </Setting>
+    <Setting Name="mainExList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EVA Batchtoetsen</Value>
+    </Setting>
+    <Setting Name="filenameXml" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EVABatchtoetsen.xml</Value>
+    </Setting>
+    <Setting Name="filenameXslt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Report.xslt</Value>
+    </Setting>
+    <Setting Name="foldername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Tom\XSLT</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,181 @@
+          *{
+          font:normal normal normal 10pt Arial,Verdana;
+          }
+          
+          html {overflow-y: scroll;}
+
+          .td
+          {
+          background-color:#82b2E1;
+          height:25px;
+          padding-left:4px;
+          color:#FFF;
+          width: 15%;
+          }
+	  
+	  .tdright,.td
+	  {
+	    font-size:120%;
+	    font-weight:Bold;
+	  }
+	  
+          .ExecutionEntryFolderLeft
+	  {
+          float:left;
+          height:25px;
+	  line-height: 25px;
+          font-weight:Bold;
+	  }
+          
+	  .ExecutionEntryFolderRight
+	  {
+	  float:right;
+	  font-weight:Bold;
+          height:25px;
+	  line-height: 25px;
+	  }
+
+          .headerBox{
+          border-width:1px;
+          border-style:solid;
+          border-color:#000;
+          margin-bottom:8px;
+          background-color:#FFFFFF;
+          }
+
+          .box{
+          border-width:2px;
+          border-style:solid;
+          border-color:silver;
+          }
+	  .info {
+	  font-style:oblique;
+          width: 100px;
+	  }
+	  
+	  .counter {
+	  display:table-cell;
+	  height:inherit;
+	  line-height: inherit;
+          font-weight:bold;
+	  float:left;
+	  }
+	  .counters {
+	  float:right;
+	  height:inherit;
+	  line-height: inherit;
+	  width:30px;
+	  text-align:right;
+	  }
+  
+	  .subcounter {
+          display:table-cell;
+	  height:inherit;
+	  line-height: inherit;
+          font-weight:bold;
+	  float:left;
+	  }
+	  .subcounters {
+	  float:right;
+	  width:30px;
+	  text-align:right;
+          height: inherit;
+	  line-height: inherit;
+	  }
+            
+	  .rightTotaal{
+	  color:Black;
+	  }
+	  
+	  .rightPassed{
+	  color:Chartreuse;
+	  }
+	  
+	  .rightFailed{
+	  color:Red;
+	  }
+
+ 	  .rightTotaalWhite{
+	  color:White;	  
+	  }
+
+	  
+	  .rightNotRun{
+	  color:LightGray ;
+	  padding-right:4px;
+	  }
+
+          .expandBox{
+          border:solid 2px silver;
+          margin-right:5px;
+          margin-left:5px;
+          }
+          
+          .expandBox-Empty{
+               display: inline;
+               padding-left: 2px;
+               margin-left: 5px;
+          }
+
+          .expandBox-Plus{
+               display: inline;
+               padding-left: 4px;
+               cursor:pointer;
+          }
+          .expandBox-Min{
+               display: none;
+               padding-left: 7px;
+               cursor:pointer;
+          }
+
+          .ExecutionListLeft,.ExecutionListRight{
+          background-color:#35416A;
+          height:30px;
+	  line-height: 30px;	  
+          font-weight:bold;
+          text-transform:uppercase;
+          color:#FFF;
+          }
+
+          .ExecutionListLeft{
+          width:200px;
+          float: left;
+          }
+	  
+	  .tabledef {
+	  width:100%;
+          box-sizing: border-box;
+          }
+          
+          .line {
+          float: left;
+          clear: both;
+          }
+          
+          .line-ExecutionEntry {
+               padding-left: 20px;
+               height:20px;
+               line-height: 20px;
+          }
+          
+          .line-ExecutionFolder {
+               padding-left: 10px;
+          }
+          
+          .line-Info {
+               padding-left: 30px;
+               height:18px;
+               line-height: 18px;
+          }
+                    .right {
+          float:right;
+          }
+         .left {
+          float:left;
+          }
+          
+          .left-ExecutionEntry{
+          width: 500px;
+          font-weight: bold;
+          }
+          
